@@ -15,5 +15,5 @@
 
 
 <p align="center">  
-<strong>Disclaier</strong> No robots were harmed in the making of my repositories.🤖
+<strong>Disclaimer</strong> No robots were harmed in the making of my repositories.🤖
 </p>
